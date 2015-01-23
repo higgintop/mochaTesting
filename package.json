@@ -1,0 +1,23 @@
+{
+  "name": "mochaTesting",
+  "version": "1.0.0",
+  "description": "Learning JS with Mocah and Chai",
+  "main": "app.js",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "chai": "^1.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/higgintop/mochaTesting.git"
+  },
+  "author": "Allison Higginbotham <higgintop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/higgintop/mochaTesting/issues"
+  },
+  "homepage": "https://github.com/higgintop/mochaTesting"
+}
